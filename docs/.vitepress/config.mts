@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base:"/yvonneyuinfj.github.io/",
+  base:"/",
   title: "Yvonne's Blog Here",
   description: "公主的自留地",
   themeConfig: {
